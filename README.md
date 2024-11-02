@@ -30,43 +30,41 @@
 ## 🎯 게임 목표
 플레이어는 **선택**과 **확률**에 의해 성장하며, 최종 레이드에 도전하여 게임을 클리어하는 것을 목표로 합니다.
 
-## Java Project UML Class Diagram
+## Java Project UML Class Diagram 📜
 
 ![제목 없는 다이어그램 drawio(3)](https://github.com/user-attachments/assets/1602b585-c122-4413-9a7c-28d52ffeaf50)
 
-## 📜 구현 화면
+## 🎮 구현 화면
 
-    ### 1. 게임 시작 화면
-    ![스크린샷 2024-11-02 115917](https://github.com/user-attachments/assets/d78ff539-b763-4f54-9126-07220e398743)
-    
-    ### 2. 던전 1번 선택과 이벤트 선택 화면
-    ![스크린샷 2024-11-02 115943](https://github.com/user-attachments/assets/e9ffe8f3-d18c-4766-8b0e-4c55848781d9)
-    
-    ### 3. 전투 화면 (공격 성공 시)
-    ![스크린샷 2024-11-02 120009](https://github.com/user-attachments/assets/28e74591-712f-4609-bf3a-3273c7b0154e)
+### 1. 게임 시작 화면
+![게임 시작 화면](https://github.com/user-attachments/assets/d78ff539-b763-4f54-9126-07220e398743)
 
-    ### 4. 전투화면 (전투 실패 시)
-    ![스크린샷 2024-11-02 120018](https://github.com/user-attachments/assets/79bd44e9-3410-4480-aa57-8a8f9744c616)
-    
-    ### 5. 전투화면 (방어 선택 시)
-    ![스크린샷 2024-11-02 120038](https://github.com/user-attachments/assets/879ef7e5-9e40-4432-b4a4-2597103a0e6c
+### 2. 던전 1번 선택 및 이벤트 선택 화면
+![던전 1번 선택 및 이벤트 선택 화면](https://github.com/user-attachments/assets/e9ffe8f3-d18c-4766-8b0e-4c55848781d9)
 
-    ### 6. 던전 2번 선택 및 몬스터 조우 화면
-    ![스크린샷 2024-11-02 120129](https://github.com/user-attachments/assets/c926f9d6-c66d-4c18-b53b-66063b96378e)
+### 3. 전투 화면 (공격 성공 시)
+![전투 화면 - 공격 성공](https://github.com/user-attachments/assets/28e74591-712f-4609-bf3a-3273c7b0154e)
 
-    ### 7. 3) 마을 선택 화면
-    ![스크린샷 2024-11-02 120153](https://github.com/user-attachments/assets/b5fecd35-eaf7-45d8-a539-b981eb4e92d3)
+### 4. 전투 화면 (전투 실패 시)
+![전투 화면 - 전투 실패](https://github.com/user-attachments/assets/79bd44e9-3410-4480-aa57-8a8f9744c616)
 
-    ### 8. 레이드 시작 화면 및 패턴 입력 화면
-    ![스크린샷 2024-11-02 120428](https://github.com/user-attachments/assets/624c469b-3c17-4309-ab7f-ebdd9b2cda79)
+### 5. 전투 화면 (방어 선택 시)
+![전투 화면 - 방어 선택](https://github.com/user-attachments/assets/879ef7e5-9e40-4432-b4a4-2597103a0e6c)
 
-    ### 9. 패턴 실패 시 게임 오버 화면
-    ![스크린샷 2024-11-02 120505](https://github.com/user-attachments/assets/4734e74a-adf9-47fd-ab4b-f83e1bd8dcf5)
+### 6. 던전 2번 선택 및 전투 조우 화면
+![던전 2번 선택 및 전투 조우 화면](https://github.com/user-attachments/assets/c926f9d6-c66d-4c18-b53b-66063b96378e)
 
-    ### 10. 레이드 클리어 시 종료 화면
-    ![스크린샷 2024-11-02 120445](https://github.com/user-attachments/assets/cf63e072-bbf5-4af3-86c0-52934ff3b373)
-    
-    ### 11. 플레이어 게임 오버 화면
-     ![스크린샷 2024-11-02 120547](https://github.com/user-attachments/assets/6e5aa4d8-9405-4cb4-936e-583e5efd0fb9)
+### 7. 마을 선택 화면
+![마을 선택 화면](https://github.com/user-attachments/assets/b5fecd35-eaf7-45d8-a539-b981eb4e92d3)
 
+### 8. 레이드 시작 화면 및 패턴 입력 화면
+![레이드 시작 및 패턴 입력 화면](https://github.com/user-attachments/assets/624c469b-3c17-4309-ab7f-ebdd9b2cda79)
 
+### 9. 패턴 실패 시 게임 오버 화면
+![게임 오버 화면 - 패턴 실패](https://github.com/user-attachments/assets/4734e74a-adf9-47fd-ab4b-f83e1bd8dcf5)
+
+### 10. 레이드 클리어 시 종료 화면
+![종료 화면 - 레이드 클리어](https://github.com/user-attachments/assets/cf63e072-bbf5-4af3-86c0-52934ff3b373)
+
+### 11. 플레이어 게임 오버 화면
+![플레이어 게임 오버 화면](https://github.com/user-attachments/assets/6e5aa4d8-9405-4cb4-936e-583e5efd0fb9)
