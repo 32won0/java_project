@@ -14,3 +14,7 @@
 
 ## 게임 목표
 플레이어는 선택과 확률에 의해 성장하며, 최종 레이드에 도전하여 게임을 클리어하는 것을 목표로 합니다.
+
+# Java Project UML Class Diagram
+
+![제목 없는 다이어그램 drawio(3)](https://github.com/user-attachments/assets/1602b585-c122-4413-9a7c-28d52ffeaf50)
