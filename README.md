@@ -31,8 +31,7 @@
 플레이어는 **선택**과 **확률**에 의해 레벨업하여, 최종 레이드에 도전하여 게임을 클리어하는 것을 목표로 합니다.
 
 ## Java Project UML Class Diagram 
-
-![다이어그램](https://github.com/user-attachments/assets/1602b585-c122-4413-9a7c-28d52ffeaf50)
+![다이어그램](https://github.com/user-attachments/assets/f3dcb6eb-2ce8-41dd-b1ba-719f36548a07)
 
 ## 📜 구현 화면
 
